@@ -46,4 +46,14 @@ turboaz-market-analysis/
 ├── TurboAZ_EDA.ipynb    # Data cleaning and exploratory data analysis
 ├── dashboard.pbix       # Interactive Power BI dashboard
 └── README.md            # Project documentation
-```
+
+## Business Impact
+
+This analysis demonstrates how data can support business decisions in the automotive marketplace by identifying the factors that drive customer engagement and listing performance.
+
+Potential applications include:
+
+- Marketing strategy optimization
+- Seller recommendation systems
+- Customer behavior analysis
+- Inventory planning
