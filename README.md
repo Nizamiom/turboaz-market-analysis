@@ -41,4 +41,9 @@ This project analyzes over 650,000 automobile listings from Turbo.az to identify
 
 ## Repository Structure
 
-...
+```text
+turboaz-market-analysis/
+├── TurboAZ_EDA.ipynb    # Data cleaning and exploratory data analysis
+├── dashboard.pbix       # Interactive Power BI dashboard
+└── README.md            # Project documentation
+```
